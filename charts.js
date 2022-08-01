@@ -122,6 +122,7 @@ function buildCharts(sample) {
     // Use d3.json to load and retrieve the samples.json file 
     //d3.json("samples.json").then((data) => {
 
+    // Deliverable 3
     // 1. Create the trace for the bubble chart.
     var bubbleData = [{
       x: otuIds,
@@ -192,7 +193,7 @@ function buildCharts(sample) {
         xanchor: 'center',
         y: 0,
         yanchor: 'center',
-        text: "The gauge displays the belly buttons weekly washing frequencies",
+        text: "This gauge displays the average amount of belly button washings per week",
         showarrow: false
       }]
     };
