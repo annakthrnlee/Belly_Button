@@ -8,6 +8,7 @@ This analysis was created on a dashboard that displays information about the bac
 ## Software:
 - JavaScript (Plotly.js)
 - D3.json
+- HTML/CSS
 
 ## Findings: 
 
