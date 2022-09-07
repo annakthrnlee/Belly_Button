@@ -10,7 +10,7 @@ This analysis was created on a dashboard that displays information about the bac
 - D3.json
 - HTML/CSS
 
-## Findings: Checkout my github-pages enviorment to view the website and interact with my visualizations! 
+#### Findings: Checkout my GitHub-pages environment to view the website and interact with my visualizations! 
 
 <img width="1417" alt="Screen Shot 2022-08-10 at 4 10 44 PM" src="https://user-images.githubusercontent.com/104043438/184029292-1b79aa43-22e5-4ca1-8bd9-523fcd0b5f5b.png">
 
